@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='B-2008.09 64-BIT'
+.TITLE '*****************************************************'
+ delay_lh_nodeaco delay_hl_nodeaco delay_lh_nodebco delay_hl_nodebco  
+ delay_lh_nodecco delay_hl_nodecco temper           alter#            
+  1.27306e-11      1.10581e-11      1.20792e-11      1.08869e-11      
+  1.16359e-11      1.05357e-11       25.000000         1.000000   
