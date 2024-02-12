@@ -1,8 +1,8 @@
 ### Steps to Run
 # Genetic Algorithms Optimisation Project
 Python based project involving Technique based Multi-objective optimisation.
-- Clone the repository to your local workspace using ``` git clone https://github.com/zencodess/genetic-algorithms-optimization.git
-```
+- Clone the repository to your local workspace using `git clone https://github.com/zencodess/genetic-algorithms-optimization.git
+`
 - The main executable file is `./run.py`, this is the only file to be run. It has all the commands to invoke and execute all remaining files too.
 - The `pygen` module generates first generation of files with different `Wn, Wp, Ln, Lp` values.
 -  The `mutation` module introduces random error in the values of `Wn, Wp, Ln, Lp` of the files  maintaining them in results.
